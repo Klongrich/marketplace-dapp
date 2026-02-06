@@ -1,4 +1,8 @@
 # marketplace-dapp
+
+This is from following a toturial from dApp universty. 
+Here is the video link: https://www.youtube.com/watch?v=VH9Q2lf2mNo
+
 basic market place dapp built on the ethereuem test net using meta mask for client wallet. Ganache-cli and truffle for testing frameworks as well.
 
 If you would like to run it and test it. 
@@ -8,3 +12,9 @@ If you would like to run it and test it.
   -  Then go into the repo and type "truffle compile", "tuffle migrate", and "truffle deploy". After you can run "npm start". 
   -  Make sure you have MetaMaks installed. Switch to the Ganache testnet. Default location it hosts on is HTTP://127.0.0.1:7545 
   -  After that you are good to go! you can buy, sell, and add products within the test network. 
+
+
+This is from following a toturial from dApp universty. 
+
+Here is the video link: https://www.youtube.com/watch?v=VH9Q2lf2mNo
+
